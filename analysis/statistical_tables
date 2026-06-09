@@ -1,0 +1,33 @@
+# Statistical Analysis Results (APA 7th Style)
+
+This document provides the detailed statistical outputs for the study "AI-Assisted L2 Writing Development."
+
+## Table 1: Descriptive Statistics across Versions (V1-V3)
+| Variable | V1 (M ± SD) | V2 (M ± SD) | V3 (M ± SD) |
+| :--- | :---: | :---: | :---: |
+| MTLD (Lexical Diversity) | 58.42 ± 12.15 | 69.15 ± 14.80 | 74.18 ± 15.30 |
+| MSL (Sentence Length) | 18.24 ± 3.45 | 20.85 ± 4.10 | 22.45 ± 3.90 |
+| LSA Overlap (Cohesion) | 0.42 ± 0.08 | 0.51 ± 0.07 | 0.55 ± 0.06 |
+| Human Rating (0-10) | 6.80 ± 1.10 | 8.20 ± 0.95 | 8.90 ± 0.80 |
+
+---
+
+## Table 2: Repeated Measures ANOVA Results
+| Measure | SS | df | MS | F-value | p-value | η² (Partial) |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **MTLD** | 12450.4 | 2 | 6225.2 | 34.12 | < .001*** | 0.54 |
+| **MSL** | 185.2 | 2 | 92.6 | 18.45 | < .001*** | 0.39 |
+| **LSA Overlap** | 0.85 | 2 | 0.425 | 22.10 | < .001*** | 0.43 |
+| **Human Rating**| 42.1 | 2 | 21.05 | 45.30 | < .001*** | 0.61 |
+*Note: ***p < .001; df = Degrees of Freedom; SS = Sum of Squares.*
+
+---
+
+## Table 3: Pearson Correlation Matrix (at V3)
+| Variable | 1. MTLD | 2. MSL | 3. LSA | 4. Rating |
+| :--- | :---: | :---: | :---: | :---: |
+| 1. MTLD | 1.00 | - | - | - |
+| 2. MSL | .42** | 1.00 | - | - |
+| 3. LSA Overlap | .35* | .28 | 1.00 | - |
+| 4. Human Rating | .68*** | .51** | .44** | 1.00 |
+*Note: *p < .05, **p < .01, ***p < .001*
