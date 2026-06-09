@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20609870.svg)](https://doi.org/10.5281/zenodo.20609870)
+
 ![Conceptual Diagram](figures/159907a8-4506-4013-b50b-547dd292f327.webp)
 
 # Co-Regulatory-Model-AI-Writing
