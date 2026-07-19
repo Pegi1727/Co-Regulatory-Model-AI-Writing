@@ -29,24 +29,22 @@ Our analysis demonstrates a significant upward trajectory across all linguistic 
 
 *Crucial insight:* Multiple linear regression revealed that the Process Quality Rating (PQR) ($\beta = .42$) is a significantly stronger predictor of final writing success than the learner's initial L2 Proficiency ($\beta = .31$).
 
-## Repository Structure
-
+## 📂 Repository Structure
 - `/data`: Anonymized datasets containing linguistic indices (MTLD, MSL, LSA) across three text versions (V1, V2, V3).
-- `/notebooks`: Python scripts (Jupyter Notebooks) used for statistical analysis, including repeated measures ANOVA and developmental trend visualizations.
-- `/figures`:
-  - `ga.png`: Graphical Abstract (Visualizing the co-regulatory loop).
-  - `Figure_1.png` to `Figure_5.png`: Standardized Z-scores, ANOVA results, and **Regression path diagrams** (illustrating the predictive power of PQR).
+- `/notebooks`: Python scripts (Jupyter Notebooks) used for statistical analysis, including Repeated Measures ANOVA and developmental trend visualizations.
+- `/figures`: 
+  - `ga.png`: *Graphical Abstract* (Visualizing the co-regulatory loop).
+  - `Figure_1.png` to `Figure_5.png`: Standardized Z-scores, ANOVA results, and Regression path diagrams.
 - `/appendices`: Supplementary documentation, including the Prompt Quality Rubric (PQR) and categorized examples of prompts.
 - `README.md`: Project documentation and theoretical summary.
 
-## Pedagogical Implications
+## 🎓 Pedagogical Implications
 
 - **Beyond Prompting:** Instruction should shift from "prompt engineering" to teaching critical evaluation and reflective decision-making.
 - **Structured Iteration:** Curriculum developers should incorporate multiple, structured AI-supported revision cycles rather than single-pass editing.
 - **Preserving Agency:** The model emphasizes maintaining learner agency, ensuring AI is a partner in cognition rather than a substitute for it.
 
-## Limitations & Future Research
-
+## ⚠️ Limitations & Future Research
 - **Sample & Duration:** Further research is needed with larger, more diverse cohorts and longitudinal designs to test the durability of gains.
 - **Process Data:** Future iterations should incorporate keystroke logging, interaction logs, and think-aloud protocols to unveil the cognitive "black box" of the interaction.
 
@@ -56,7 +54,7 @@ The linguistic analysis in this study was conducted using:
 - **Coh-Metrix 3.0:** For multilevel analysis of text characteristics.
 - **Python (Pingouin & Pandas):** For inferential statistics and data visualization.
 
-## Keywords
+## 🗝️ Keywords
 `Generative AI` · `Human-AI Co-regulation` · `L2 Academic Writing` · `Metalinguistic Awareness` · `CALL` · `Socio-cognitive Theory` · `Self-Regulated Learning`
 
 ## Citation
