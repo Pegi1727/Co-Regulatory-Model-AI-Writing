@@ -75,7 +75,7 @@ The linguistic analysis in this study was conducted using:
 
 If you use this data or the Co-Regulatory framework in your research, please cite the manuscript as follows:
 
-> Merrikhi, P. (2024). *The Co-regulatory Model of AI-Assisted L2 Academic Writing: Investigating the Impact of Iterative Prompting on Textual Development*. [Manuscript submitted for publication].
+> Merrikhi, P. (2026). *The Co-regulatory Model of AI-Assisted L2 Academic Writing: Investigating the Impact of Iterative Prompting on Textual Development*. [Manuscript submitted for publication].
 
 ## License
 
