@@ -3,6 +3,20 @@
 # Co-Regulatory-Model-AI-Writing
 
 Official repository for the *Co-Regulatory Model of AI-Assisted Writing* study. This project features datasets on iterative prompting, prompt literacy, and human-AI interaction in L2 academic contexts.
+## 📂 Repository Structure
+- `/data`: Anonymized datasets containing linguistic indices (MTLD, MSL, LSA) across three text versions (V1, V2, V3).
+- `/notebooks`: Python scripts (Jupyter Notebooks) used for statistical analysis, including Repeated Measures ANOVA and developmental trend visualizations.
+- `/figures`: 
+    - **Graphical Abstract:** 
+      ![Graphical Abstract](figures/ga.png)
+    - **Key Visualizations:**
+      ![Standardized Z-scores](figures/Figure_1.png)
+      ![ANOVA Results](figures/Figure_2.png)
+      ![Regression Path Diagram](figures/Figure_5.png)
+      *(Note: Figures 3-4 also available in this directory)*
+- `/appendices`: Supplementary documentation, including the Prompt Quality Rubric (PQR) and categorized examples of prompts.
+- `README.md`: Project documentation and theoretical summary.
+
 
 ## Project Overview
 
