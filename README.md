@@ -1,20 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20609870.svg)](https://doi.org/10.5281/zenodo.20609870)
 
-![Conceptual Diagram](figures/conceptual-diagram.png)
-
 # Co-Regulatory-Model-AI-Writing
 
 Official repository for the *Co-Regulatory Model of AI-Assisted Writing* study. This project features datasets on iterative prompting, prompt literacy, and human-AI interaction in L2 academic contexts.
-
-# AI-Assisted L2 Academic Writing: Reproducibility Package
-
-This repository contains the supplementary data, analysis scripts, and appendices for the following research paper:
-
-- **Title:** The Co-regulatory Model of AI-Assisted L2 Academic Writing: Investigating the Impact of Iterative Prompting on Textual Development
-- **Author:** Dr. Pegah Merrikhi
-- **Status:** Submitted to Springer (*International Journal of Artificial Intelligence in Education*)
-
----
 
 ## Project Overview
 
@@ -45,15 +33,31 @@ Our analysis demonstrates a significant upward trajectory across all linguistic 
 
 - `/data`: Anonymized datasets containing linguistic indices (MTLD, MSL, LSA) across three text versions (V1, V2, V3).
 - `/notebooks`: Python scripts (Jupyter Notebooks) used for statistical analysis, including repeated measures ANOVA and developmental trend visualizations.
-- `/figures`: High-resolution versions of the Co-Regulatory Model framework and standardized growth charts.
+- `/figures`:
+  - `ga.png`: Graphical Abstract (Visualizing the co-regulatory loop).
+  - `Figure_1.png` to `Figure_5.png`: Standardized Z-scores, ANOVA results, and **Regression path diagrams** (illustrating the predictive power of PQR).
 - `/appendices`: Supplementary documentation, including the Prompt Quality Rubric (PQR) and categorized examples of prompts.
+- `README.md`: Project documentation and theoretical summary.
+
+## Pedagogical Implications
+
+- **Beyond Prompting:** Instruction should shift from "prompt engineering" to teaching critical evaluation and reflective decision-making.
+- **Structured Iteration:** Curriculum developers should incorporate multiple, structured AI-supported revision cycles rather than single-pass editing.
+- **Preserving Agency:** The model emphasizes maintaining learner agency, ensuring AI is a partner in cognition rather than a substitute for it.
+
+## Limitations & Future Research
+
+- **Sample & Duration:** Further research is needed with larger, more diverse cohorts and longitudinal designs to test the durability of gains.
+- **Process Data:** Future iterations should incorporate keystroke logging, interaction logs, and think-aloud protocols to unveil the cognitive "black box" of the interaction.
 
 ## Analysis Tools
 
 The linguistic analysis in this study was conducted using:
-
 - **Coh-Metrix 3.0:** For multilevel analysis of text characteristics.
 - **Python (Pingouin & Pandas):** For inferential statistics and data visualization.
+
+## Keywords
+`Generative AI` · `Human-AI Co-regulation` · `L2 Academic Writing` · `Metalinguistic Awareness` · `CALL` · `Socio-cognitive Theory` · `Self-Regulated Learning`
 
 ## Citation
 
